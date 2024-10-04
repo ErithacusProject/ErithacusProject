@@ -1,9 +1,9 @@
 ## Hello! 
 
-- My names Robyn, I graduated from a games design and programming course in 2024, doing predominantly programming work alone as well as part of larger teams, including leading them.
+- I graduated from a games design and programming course in 2024, doing predominantly programming work alone as well as part of larger teams, including leading them.
 - I've been programming for 7 years in different languages including python, C# and C++.
 - I have experience in both Unity and Unreal and am my friends resident debugger.
-- I currently work as a junior software tester testing backend and APIs for payments, which includes writing BDD scripts in Gherkin for automation and writing SQL for a large database.
+- I currently work as a junior software tester learning backend and API testing for payments, which includes writing BDD scripts in Gherkin for automation and writing SQL for a large database.
 - I'm looking into jobs in Software Development, Automation Dev while working on some of my own games and tools projects on the side ^^, you can find a lot if my projects (and project plans on wikis) on this account 
 <!--
 **ErithacusProject/ErithacusProject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
