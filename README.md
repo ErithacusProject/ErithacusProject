@@ -5,3 +5,5 @@
 - I have experience in both Unity and Unreal and am my friends resident debugger.
 - I currently work as a junior software tester as part of the payments team. This includes writing and executing test cases, API testing and writing automated BDD test scripts in Gherkin and SQL.
 - I'm looking into jobs in Software Development, Automation Dev while working on some of my own games and tools projects on the side ^^, you can find a lot if my projects (and project plans on wikis) on this account 
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
